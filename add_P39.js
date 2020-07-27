@@ -1,4 +1,4 @@
-module.exports = (id, startdate, enddate, replaces, replacedby, ordinal) => {
+module.exports = (id, startdate, enddate, replaces, replacedby, ordinal, cabinet) => {
   const qualifiers = { }
 
   // Seems like there should be a better way of filtering these...
@@ -7,6 +7,7 @@ module.exports = (id, startdate, enddate, replaces, replacedby, ordinal) => {
   if (replaces && replaces != "''")     qualifiers['P1365'] = replaces
   if (replacedby && replacedby != "''") qualifiers['P1366'] = replacedby
   if (ordinal && ordinal != "''")       qualifiers['P1545'] = ordinal
+  if (cabinet && cabinet != "''")       qualifiers['P5054'] = cabinet
 
   if (startdate && enddate && startdate != "''" && enddate != "''" &&
     (startdate > enddate)) throw new Error(`Invalid dates: ${startdate} / ${enddate}`)

@@ -44,7 +44,8 @@ class InputFile
     P1365: %w[replaces],
     P1366: %w[replaced_by replacedby replacedBy],
     P1534: %w[cause end_cause endcause endCause],
-    P1545: %w[ordinal]
+    P1545: %w[ordinal],
+    P5054: %w[cabinet]
   }.freeze
 
   def data
