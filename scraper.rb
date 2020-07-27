@@ -9,9 +9,26 @@ require 'wikidata_ids_decorator'
 require_relative 'lib/partial_date'
 require_relative 'lib/unspan_all_tables'
 require_relative 'lib/wikipedia_table_row'
+require_relative 'lib/remove_notes'
+
+class DateString
+  def initialize(str)
+    @str = str
+  end
+
+  def to_ymd
+    str.split('.').reverse.map { |num| num.rjust(2, "0") }.join('-')
+  end
+
+  private
+
+  attr_reader :str
+end
+
 
 # The Wikipedia page with a list of officeholders
 class ListPage < Scraped::HTML
+  decorator RemoveNotes
   decorator WikidataIdsDecorator::Links
   decorator UnspanAllTables
 
@@ -24,7 +41,7 @@ class ListPage < Scraped::HTML
   def list
     noko.xpath('.//table[.//th[contains(
       translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
-    "portrait")]]').last
+    "hallitus")]]').first
   end
 end
 
@@ -32,21 +49,19 @@ end
 # Each officeholder in the list
 class HolderItem < WikipediaTableRow
   field :id do
-    wikidata_ids_in(tds[2]).first
+    wikidata_ids_in(tds[1]).first
   end
 
   field :name do
-    link_titles_in(tds[2]).first
+    link_titles_in(tds[1]).first
   end
 
   field :start_date do
-    Date.parse tds[3].text rescue binding.pry
+    dates[0]
   end
 
   field :end_date do
-    return if tds[4].text.include? 'Incumbent'
-
-    Date.parse tds[4].text
+    dates[1]
   end
 
   field :replaces do
@@ -55,8 +70,22 @@ class HolderItem < WikipediaTableRow
   field :replaced_by do
   end
 
+  field :cabinet do
+    wikidata_ids_in(tds[4]).first
+  end
+
+  field :cabinetLabel do
+    link_titles_in(tds[4]).first
+  end
+
   def empty?
-    tds[0].css('img/@alt').text.include? 'Flag'
+    tds[0].text.to_i.zero?
+  end
+
+  private
+
+  def dates
+    tds[3].text.tidy.split(/\s*–\s*/).map { |str| DateString.new(str).to_ymd }
   end
 end
 
