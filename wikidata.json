@@ -8,41 +8,6 @@
   },
   {
     "item": {
-      "value": "Q547230",
-      "label": "Onni Hiltunen"
-    },
-    "statement": "Q547230$44116436-D3F4-4EA5-8203-5CC50D7166A6"
-  },
-  {
-    "item": {
-      "value": "Q728830",
-      "label": "Ralf Törngren"
-    },
-    "statement": "Q728830$472C5973-9DB1-4527-818A-304787D70C38"
-  },
-  {
-    "item": {
-      "value": "Q4345709",
-      "label": "Juhani Arajärvi"
-    },
-    "statement": "Q4345709$6993328E-AFE4-4CB5-AD23-93FF2A3128F0"
-  },
-  {
-    "item": {
-      "value": "Q6305142",
-      "label": "Juho Niukkanen"
-    },
-    "statement": "Q6305142$8745DB84-DCA2-4619-BA73-655585C797AD"
-  },
-  {
-    "item": {
-      "value": "Q11858496",
-      "label": "Ernst Gråsten"
-    },
-    "statement": "Q11858496$7FDF2798-4012-4556-A5D6-A53325CE3C88"
-  },
-  {
-    "item": {
       "value": "Q11867627",
       "label": "Juho Pilppula"
     },
@@ -57,45 +22,10 @@
   },
   {
     "item": {
-      "value": "Q11898918",
-      "label": "Tuure Junnila"
-    },
-    "statement": "Q11898918$4099B743-15C9-4664-96F6-432F54D51972"
-  },
-  {
-    "item": {
       "value": "Q177853",
       "label": "Veikko Vennamo"
     },
     "statement": "Q177853$F18F377B-A1BD-410B-B4E7-59EE79FC8EBD"
-  },
-  {
-    "item": {
-      "value": "Q471286",
-      "label": "Kaarlo Castrén"
-    },
-    "statement": "Q471286$10DC956C-37AC-4639-ADBF-D5C111FF1975"
-  },
-  {
-    "item": {
-      "value": "Q708371",
-      "label": "V. J. Sukselainen"
-    },
-    "statement": "Q708371$A1EB8028-76DA-4FE9-BB6A-202EDA4D3656"
-  },
-  {
-    "item": {
-      "value": "Q7264590",
-      "label": "Päiviö Hetemäki"
-    },
-    "statement": "Q7264590$A6533EBB-DEE2-4268-85A8-F013CCD002C3"
-  },
-  {
-    "item": {
-      "value": "Q11881774",
-      "label": "Mauno Jussila"
-    },
-    "statement": "Q11881774$BA8C3AA6-FB09-4E81-BCF3-15FC774213DD"
   },
   {
     "item": {
@@ -106,27 +36,6 @@
   },
   {
     "item": {
-      "value": "Q17381492",
-      "label": "Osmo P. Karttunen"
-    },
-    "statement": "Q17381492$01DA2F5A-1B74-449C-9EB7-C92F37D54565"
-  },
-  {
-    "item": {
-      "value": "Q5895555",
-      "label": "Kyösti Järvinen"
-    },
-    "statement": "Q5895555$AE12B78A-357C-4B71-BC25-992875B3D70B"
-  },
-  {
-    "item": {
-      "value": "Q9384823",
-      "label": "Aarre Simonen"
-    },
-    "statement": "Q9384823$09F95701-CF3A-436C-B829-CADD3A0608D7"
-  },
-  {
-    "item": {
       "value": "Q11881767",
       "label": "Mauno Forsman"
     },
@@ -134,115 +43,10 @@
   },
   {
     "item": {
-      "value": "Q17380778",
-      "label": "Lauri Hietanen"
-    },
-    "statement": "Q17380778$dd5a2e46-e6d7-4066-880e-4bf098516b8a"
-  },
-  {
-    "item": {
-      "value": "Q209435",
-      "label": "Risto Ryti"
-    },
-    "statement": "Q209435$EA9D7CFE-9A9C-43A3-8937-D027C87B9F3E"
-  },
-  {
-    "item": {
-      "value": "Q11855011",
-      "label": "Carl Olof Tallgren"
-    },
-    "statement": "Q11855011$2D5A9E56-E37A-4B2A-A588-07AC1C1FE44A"
-  },
-  {
-    "item": {
-      "value": "Q11864687",
-      "label": "Ilmo Nurmela"
-    },
-    "statement": "Q11864687$1F3F367F-D025-4394-BE5A-67E4FC78AA0D"
-  },
-  {
-    "item": {
-      "value": "Q11901485",
-      "label": "Viljo Rantala"
-    },
-    "statement": "Q11901485$0E8B374D-1179-4F97-A20C-7A9B65088058"
-  },
-  {
-    "item": {
-      "value": "Q17382763",
-      "label": "Paul Paavela"
-    },
-    "statement": "Q17382763$5D896EAE-F85C-4A1C-80E4-230B5DF441AE"
-  },
-  {
-    "item": {
-      "value": "Q728501",
-      "label": "Sakari Tuomioja"
-    },
-    "statement": "Q728501$F011179D-3893-4874-9407-AEF94D03D289"
-  },
-  {
-    "item": {
-      "value": "Q5395173",
-      "label": "Tyko Reinikka"
-    },
-    "statement": "Q5395173$1C45E2EE-4B88-460C-87D0-06104C214189"
-  },
-  {
-    "item": {
       "value": "Q5478759",
       "label": "Jorma Uitto"
     },
     "statement": "Q5478759$1B959599-CB84-42C2-BB8A-69524819AD9A"
-  },
-  {
-    "item": {
-      "value": "Q11857180",
-      "label": "Eino Raunio"
-    },
-    "statement": "Q11857180$ADDF4827-E55E-4EEF-95F9-BABF2A4F81FC"
-  },
-  {
-    "item": {
-      "value": "Q11858736",
-      "label": "Esko Rekola"
-    },
-    "statement": "Q11858736$00077BDB-97F2-428F-A477-EE7FD009B109"
-  },
-  {
-    "item": {
-      "value": "Q11863729",
-      "label": "Hugo Relander"
-    },
-    "statement": "Q11863729$03FFB911-2E2C-48AD-844F-0F8ED4C8DCE2"
-  },
-  {
-    "item": {
-      "value": "Q11887308",
-      "label": "Penna Tervo"
-    },
-    "statement": "Q11887308$C40596EA-7C25-4449-9FAD-BC203C37B9CE"
-  },
-  {
-    "item": {
-      "value": "Q391176",
-      "label": "Johannes Lundson"
-    },
-    "statement": "Q391176$22F471D3-4557-40CA-AA85-B88D0D07B830"
-  },
-  {
-    "item": {
-      "value": "Q1691981",
-      "label": "Johan Helo"
-    },
-    "statement": "Q1691981$2B29E0E1-50AE-447E-9ACA-5EC1B89C1CC2"
-  },
-  {
-    "item": {
-      "value": "Q6163504",
-      "label": "August Ramsay"
-    },
-    "statement": "Q6163504$F0D2CAE6-BCAC-4789-8CE4-E4A6C30406F8"
   },
   {
     "item": {
@@ -257,34 +61,6 @@
       "label": "Viljo Luukka"
     },
     "statement": "Q11901480$CF0B7B5D-F51F-4391-AC2A-23751676F577"
-  },
-  {
-    "item": {
-      "value": "Q11902419",
-      "label": "Wiljam Sarjala"
-    },
-    "statement": "Q11902419$4BF382ED-389E-46E3-854B-9DF509DF6E67"
-  },
-  {
-    "item": {
-      "value": "Q17382412",
-      "label": "Nils Meinander"
-    },
-    "statement": "Q17382412$0F224A79-D7C8-48E3-B742-7D04C1EFFBBB"
-  },
-  {
-    "item": {
-      "value": "Q116190",
-      "label": "Väinö Tanner"
-    },
-    "statement": "Q116190$78166FC1-BCCC-48B6-A5D5-9E5745B8A546"
-  },
-  {
-    "item": {
-      "value": "Q5306921",
-      "label": "Hannes Ryömä"
-    },
-    "statement": "Q5306921$BA49E598-FB40-4862-81E7-CDCAE4C908A1"
   },
   {
     "item": {
@@ -367,6 +143,78 @@
   },
   {
     "item": {
+      "value": "Q471286",
+      "label": "Kaarlo Castrén"
+    },
+    "replaces": {
+      "value": "Q4345709",
+      "label": "Juhani Arajärvi"
+    },
+    "replacedBy": {
+      "value": "Q6163504",
+      "label": "August Ramsay"
+    },
+    "start": {
+      "value": "1918-11-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1919-04-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q471286$10DC956C-37AC-4639-ADBF-D5C111FF1975",
+    "cabinet": "Q1628568"
+  },
+  {
+    "item": {
+      "value": "Q6163504",
+      "label": "August Ramsay"
+    },
+    "replaces": {
+      "value": "Q471286",
+      "label": "Kaarlo Castrén"
+    },
+    "replacedBy": {
+      "value": "Q391176",
+      "label": "Johannes Lundson"
+    },
+    "start": {
+      "value": "1919-04-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1919-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6163504$F0D2CAE6-BCAC-4789-8CE4-E4A6C30406F8",
+    "cabinet": "Q1628905"
+  },
+  {
+    "item": {
+      "value": "Q391176",
+      "label": "Johannes Lundson"
+    },
+    "replaces": {
+      "value": "Q6163504",
+      "label": "August Ramsay"
+    },
+    "replacedBy": {
+      "value": "Q11866872",
+      "label": "Jonathan Wartiovaara"
+    },
+    "start": {
+      "value": "1919-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1920-03-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q391176$22F471D3-4557-40CA-AA85-B88D0D07B830",
+    "cabinet": "Q1629645"
+  },
+  {
+    "item": {
       "value": "Q11866872",
       "label": "Jonathan Wartiovaara"
     },
@@ -412,6 +260,30 @@
     },
     "statement": "Q209435$F04CAD15-A6B3-44FA-86B1-05FC7658CA2F",
     "cabinet": "Q1326348"
+  },
+  {
+    "item": {
+      "value": "Q11858496",
+      "label": "Ernst Gråsten"
+    },
+    "replaces": {
+      "value": "Q209435",
+      "label": "Risto Ryti"
+    },
+    "replacedBy": {
+      "value": "Q209435",
+      "label": "Risto Ryti"
+    },
+    "start": {
+      "value": "1922-06-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1922-11-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11858496$7FDF2798-4012-4556-A5D6-A53325CE3C88",
+    "cabinet": "Q4357129"
   },
   {
     "item": {
@@ -535,6 +407,30 @@
   },
   {
     "item": {
+      "value": "Q5306921",
+      "label": "Hannes Ryömä"
+    },
+    "replaces": {
+      "value": "Q5895555",
+      "label": "Kyösti Järvinen"
+    },
+    "replacedBy": {
+      "value": "Q6305142",
+      "label": "Juho Niukkanen"
+    },
+    "start": {
+      "value": "1926-12-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1927-12-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5306921$BA49E598-FB40-4862-81E7-CDCAE4C908A1",
+    "cabinet": "Q7944323"
+  },
+  {
+    "item": {
       "value": "Q6305142",
       "label": "Juho Niukkanen"
     },
@@ -580,6 +476,30 @@
     },
     "statement": "Q11863729$2E230684-CB48-4CC9-A461-F5F6BFB14D67",
     "cabinet": "Q4357539"
+  },
+  {
+    "item": {
+      "value": "Q5395173",
+      "label": "Tyko Reinikka"
+    },
+    "replaces": {
+      "value": "Q11863729",
+      "label": "Hugo Relander"
+    },
+    "replacedBy": {
+      "value": "Q471237",
+      "label": "Juho Vennola"
+    },
+    "start": {
+      "value": "1929-08-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1930-07-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5395173$1C45E2EE-4B88-460C-87D0-06104C214189",
+    "cabinet": "Q4357395"
   },
   {
     "item": {
@@ -795,7 +715,7 @@
       "precision": "11"
     },
     "statement": "Q116190$040DD0D8-B4A5-4EA2-B756-81D38A997798",
-    "cabinet": "Q4410576"
+    "cabinet": "Q4357269"
   },
   {
     "item": {
@@ -803,12 +723,12 @@
       "label": "Väinö Tanner"
     },
     "replaces": {
-      "value": "Q116190",
-      "label": "Väinö Tanner"
+      "value": "Q471245",
+      "label": "Mauno Pekkala"
     },
     "replacedBy": {
-      "value": "Q547230",
-      "label": "Onni Hiltunen"
+      "value": "Q116190",
+      "label": "Väinö Tanner"
     },
     "start": {
       "value": "1942-05-22T00:00:00Z",
@@ -818,8 +738,8 @@
       "value": "1944-08-08T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q116190$A4DBAB1C-5B26-499C-95F9-04C6280A09E1",
-    "cabinet": "Q4357269"
+    "statement": "Q116190$040DD0D8-B4A5-4EA2-B756-81D38A997798",
+    "cabinet": "Q4410576"
   },
   {
     "item": {
@@ -839,7 +759,7 @@
       "precision": "11"
     },
     "end": {
-      "value": "1944-11-17T00:00:00Z",
+      "value": "1944-09-21T00:00:00Z",
       "precision": "11"
     },
     "statement": "Q547230$5C32C6B5-D541-4DC2-B4E1-1FDC6527BD82",
@@ -859,7 +779,7 @@
       "label": "Johan Helo"
     },
     "start": {
-      "value": "1944-08-08T00:00:00Z",
+      "value": "1944-09-21T00:00:00Z",
       "precision": "11"
     },
     "end": {
@@ -868,6 +788,54 @@
     },
     "statement": "Q547230$C87C569A-C18D-4C53-8BB6-7A9234B8EA1E",
     "cabinet": "Q4357261"
+  },
+  {
+    "item": {
+      "value": "Q1691981",
+      "label": "Johan Helo"
+    },
+    "replaces": {
+      "value": "Q547230",
+      "label": "Onni Hiltunen"
+    },
+    "replacedBy": {
+      "value": "Q728501",
+      "label": "Sakari Tuomioja"
+    },
+    "start": {
+      "value": "1944-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1945-04-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1691981$2B29E0E1-50AE-447E-9ACA-5EC1B89C1CC2",
+    "cabinet": "Q1330769"
+  },
+  {
+    "item": {
+      "value": "Q728501",
+      "label": "Sakari Tuomioja"
+    },
+    "replaces": {
+      "value": "Q1691981",
+      "label": "Johan Helo"
+    },
+    "replacedBy": {
+      "value": "Q728830",
+      "label": "Ralf Törngren"
+    },
+    "start": {
+      "value": "1945-04-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1945-07-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q728501$F011179D-3893-4874-9407-AEF94D03D289",
+    "cabinet": "Q649188"
   },
   {
     "item": {
@@ -991,6 +959,30 @@
   },
   {
     "item": {
+      "value": "Q11901485",
+      "label": "Viljo Rantala"
+    },
+    "replaces": {
+      "value": "Q547230",
+      "label": "Onni Hiltunen"
+    },
+    "replacedBy": {
+      "value": "Q6305142",
+      "label": "Juho Niukkanen"
+    },
+    "start": {
+      "value": "1951-09-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1953-07-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11901485$0E8B374D-1179-4F97-A20C-7A9B65088058",
+    "cabinet": "Q1336738"
+  },
+  {
+    "item": {
       "value": "Q6305142",
       "label": "Juho Niukkanen"
     },
@@ -1012,6 +1004,30 @@
     },
     "statement": "Q6305142$968F0DDD-5864-45AF-94CF-EF9E91108ABF",
     "cabinet": "Q1336758"
+  },
+  {
+    "item": {
+      "value": "Q11898918",
+      "label": "Tuure Junnila"
+    },
+    "replaces": {
+      "value": "Q6305142",
+      "label": "Juho Niukkanen"
+    },
+    "replacedBy": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "start": {
+      "value": "1953-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1954-05-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11898918$4099B743-15C9-4664-96F6-432F54D51972",
+    "cabinet": "Q1336721"
   },
   {
     "item": {
@@ -1039,8 +1055,88 @@
   },
   {
     "item": {
+      "value": "Q11887308",
+      "label": "Penna Tervo"
+    },
+    "replaces": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "replacedBy": {
+      "value": "Q9384823",
+      "label": "Aarre Simonen"
+    },
+    "start": {
+      "value": "1954-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1956-02-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11887308$C40596EA-7C25-4449-9FAD-BC203C37B9CE",
+    "cabinet": "Q1338746"
+  },
+  {
+    "item": {
+      "value": "Q9384823",
+      "label": "Aarre Simonen"
+    },
+    "replaces": {
+      "value": "Q11887308",
+      "label": "Penna Tervo"
+    },
+    "replacedBy": {
+      "value": "Q17382412",
+      "label": "Nils Meinander"
+    },
+    "start": {
+      "value": "1956-03-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9384823$09F95701-CF3A-436C-B829-CADD3A0608D7",
+    "cabinet": "Q1338757"
+  },
+  {
+    "item": {
+      "value": "Q17382412",
+      "label": "Nils Meinander"
+    },
+    "replaces": {
+      "value": "Q9384823",
+      "label": "Aarre Simonen"
+    },
+    "replacedBy": {
       "value": "Q471269",
       "label": "Martti Miettunen"
+    },
+    "start": {
+      "value": "1957-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q17382412$0F224A79-D7C8-48E3-B742-7D04C1EFFBBB",
+    "cabinet": "Q1112382"
+  },
+  {
+    "item": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "replaces": {
+      "value": "Q17382412",
+      "label": "Nils Meinander"
+    },
+    "replacedBy": {
+      "value": "Q17380778",
+      "label": "Lauri Hietanen"
     },
     "start": {
       "value": "1957-07-02T00:00:00Z",
@@ -1050,7 +1146,56 @@
       "value": "1957-11-28T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q471269$DA6DC364-8544-4A53-A8B3-3C1EA8C6C8DA"
+    "statement": "Q471269$DA6DC364-8544-4A53-A8B3-3C1EA8C6C8DA",
+    "cabinet": "Q1112382"
+  },
+  {
+    "item": {
+      "value": "Q17380778",
+      "label": "Lauri Hietanen"
+    },
+    "replaces": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "replacedBy": {
+      "value": "Q11864687",
+      "label": "Ilmo Nurmela"
+    },
+    "start": {
+      "value": "1957-11-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1958-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q17380778$dd5a2e46-e6d7-4066-880e-4bf098516b8a",
+    "cabinet": "Q1350651"
+  },
+  {
+    "item": {
+      "value": "Q11864687",
+      "label": "Ilmo Nurmela"
+    },
+    "replaces": {
+      "value": "Q17380778",
+      "label": "Lauri Hietanen"
+    },
+    "replacedBy": {
+      "value": "Q7264590",
+      "label": "Päiviö Hetemäki"
+    },
+    "start": {
+      "value": "1958-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1958-08-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11864687$1F3F367F-D025-4394-BE5A-67E4FC78AA0D",
+    "cabinet": "Q1351242"
   },
   {
     "item": {
@@ -1126,6 +1271,54 @@
   },
   {
     "item": {
+      "value": "Q17381492",
+      "label": "Osmo P. Karttunen"
+    },
+    "replaces": {
+      "value": "Q11902419",
+      "label": "Wiljam Sarjala"
+    },
+    "replacedBy": {
+      "value": "Q11881774",
+      "label": "Mauno Jussila"
+    },
+    "start": {
+      "value": "1962-04-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1963-12-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q17381492$01DA2F5A-1B74-449C-9EB7-C92F37D54565",
+    "cabinet": "Q4696388"
+  },
+  {
+    "item": {
+      "value": "Q11881774",
+      "label": "Mauno Jussila"
+    },
+    "replaces": {
+      "value": "Q17381492",
+      "label": "Osmo P. Karttunen"
+    },
+    "replacedBy": {
+      "value": "Q11858736",
+      "label": "Esko Rekola"
+    },
+    "start": {
+      "value": "1963-12-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1963-12-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11881774$BA8C3AA6-FB09-4E81-BCF3-15FC774213DD",
+    "cabinet": "Q4696388"
+  },
+  {
+    "item": {
       "value": "Q11858736",
       "label": "Esko Rekola"
     },
@@ -1193,7 +1386,32 @@
       "value": "1967-12-31T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q29021$9ee3c09e-457c-0c85-f2bd-e2cb96c74f24"
+    "statement": "Q29021$9ee3c09e-457c-0c85-f2bd-e2cb96c74f24",
+    "cabinet": "Q10650451"
+  },
+  {
+    "item": {
+      "value": "Q11857180",
+      "label": "Eino Raunio"
+    },
+    "replaces": {
+      "value": "Q29021",
+      "label": "Mauno Koivisto"
+    },
+    "replacedBy": {
+      "value": "Q7264590",
+      "label": "Päiviö Hetemäki"
+    },
+    "start": {
+      "value": "1968-01-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1970-05-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11857180$ADDF4827-E55E-4EEF-95F9-BABF2A4F81FC",
+    "cabinet": "Q3374582"
   },
   {
     "item": {
@@ -1218,6 +1436,30 @@
     },
     "statement": "Q7264590$E5E8B019-D785-442D-8EB5-75581044531A",
     "cabinet": "Q3359402"
+  },
+  {
+    "item": {
+      "value": "Q11855011",
+      "label": "Carl Olof Tallgren"
+    },
+    "replaces": {
+      "value": "Q7264590",
+      "label": "Päiviö Hetemäki"
+    },
+    "replacedBy": {
+      "value": "Q7264590",
+      "label": "Päiviö Hetemäki"
+    },
+    "start": {
+      "value": "1970-07-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1971-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11855011$2D5A9E56-E37A-4B2A-A588-07AC1C1FE44A",
+    "cabinet": "Q3374313"
   },
   {
     "item": {
@@ -1264,7 +1506,8 @@
       "value": "1972-09-04T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q29021$e4962ed0-436a-cfdf-5e01-f00ecdf27c60"
+    "statement": "Q29021$e4962ed0-436a-cfdf-5e01-f00ecdf27c60",
+    "cabinet": "Q10650452"
   },
   {
     "item": {
@@ -1311,7 +1554,8 @@
       "value": "1975-11-30T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q11861918$5902f238-48e4-9452-815c-c39bb7884688"
+    "statement": "Q11861918$5902f238-48e4-9452-815c-c39bb7884688",
+    "cabinet": "Q10650442"
   },
   {
     "item": {
@@ -1390,6 +1634,14 @@
       "value": "Q2152508",
       "label": "Ahti Pekkala"
     },
+    "replaces": {
+      "value": "Q17382763",
+      "label": "Paul Paavela"
+    },
+    "replacedBy": {
+      "value": "Q11858721",
+      "label": "Esko Ollila"
+    },
     "start": {
       "value": "1979-05-26T00:00:00Z",
       "precision": "11"
@@ -1398,7 +1650,56 @@
       "value": "1986-01-31T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q2152508$6a37a914-4d0d-11a7-3761-77233066807e"
+    "statement": "Q2152508$6a37a914-4d0d-11a7-3761-77233066807e",
+    "cabinet": "Q3112478"
+  },
+  {
+    "item": {
+      "value": "Q2152508",
+      "label": "Ahti Pekkala"
+    },
+    "replaces": {
+      "value": "Q17382763",
+      "label": "Paul Paavela"
+    },
+    "replacedBy": {
+      "value": "Q11858721",
+      "label": "Esko Ollila"
+    },
+    "start": {
+      "value": "1979-05-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1986-01-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2152508$6a37a914-4d0d-11a7-3761-77233066807e",
+    "cabinet": "Q10650440"
+  },
+  {
+    "item": {
+      "value": "Q2152508",
+      "label": "Ahti Pekkala"
+    },
+    "replaces": {
+      "value": "Q17382763",
+      "label": "Paul Paavela"
+    },
+    "replacedBy": {
+      "value": "Q11858721",
+      "label": "Esko Ollila"
+    },
+    "start": {
+      "value": "1979-05-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1986-01-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2152508$6a37a914-4d0d-11a7-3761-77233066807e",
+    "cabinet": "Q10650464"
   },
   {
     "item": {
@@ -1445,7 +1746,8 @@
       "value": "1990-02-28T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q194058$84DE7BE7-1875-424D-A9D3-E6E25B730E00"
+    "statement": "Q194058$84DE7BE7-1875-424D-A9D3-E6E25B730E00",
+    "cabinet": "Q3112126"
   },
   {
     "item": {
@@ -1528,6 +1830,10 @@
       "value": "Q5995010",
       "label": "Iiro Viinanen"
     },
+    "replacedBy": {
+      "value": "Q29207",
+      "label": "Sauli Niinistö"
+    },
     "start": {
       "value": "1996-02-02T00:00:00Z",
       "precision": "11"
@@ -1541,22 +1847,10 @@
   },
   {
     "item": {
-      "value": "Q591312",
-      "label": "Jouko Skinnari"
+      "value": "Q29207",
+      "label": "Sauli Niinistö"
     },
-    "start": {
-      "value": "1997-10-09T00:00:00Z",
-      "precision": "11"
-    },
-    "end": {
-      "value": "1999-04-14T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q591312$945F1FC3-450D-4AED-A10A-E18F197E1577",
-    "cabinet": "Q3110332"
-  },
-  {
-    "item": {
+    "replaces": {
       "value": "Q29207",
       "label": "Sauli Niinistö"
     },
@@ -1580,6 +1874,14 @@
       "value": "Q609682",
       "label": "Antti Kalliomäki"
     },
+    "replaces": {
+      "value": "Q29207",
+      "label": "Sauli Niinistö"
+    },
+    "replacedBy": {
+      "value": "Q609682",
+      "label": "Antti Kalliomäki"
+    },
     "start": {
       "value": "2003-04-17T00:00:00Z",
       "precision": "11"
@@ -1593,23 +1895,16 @@
   },
   {
     "item": {
-      "value": "Q3497402",
-      "label": "Ulla-Maj Wideroos"
-    },
-    "start": {
-      "value": "2003-04-27T00:00:00Z",
-      "precision": "11"
-    },
-    "end": {
-      "value": "2007-04-18T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q3497402$F039A1B5-6ADC-4EF2-8CE8-18622566A52A"
-  },
-  {
-    "item": {
       "value": "Q609682",
       "label": "Antti Kalliomäki"
+    },
+    "replaces": {
+      "value": "Q609682",
+      "label": "Antti Kalliomäki"
+    },
+    "replacedBy": {
+      "value": "Q2360756",
+      "label": "Eero Heinäluoma"
     },
     "start": {
       "value": "2003-06-24T00:00:00Z",
@@ -1643,7 +1938,8 @@
       "value": "2007-04-19T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q2360756$085F65D7-A3AF-4E9F-ACA3-98556F0C48DB"
+    "statement": "Q2360756$085F65D7-A3AF-4E9F-ACA3-98556F0C48DB",
+    "cabinet": "Q81988"
   },
   {
     "item": {
@@ -1666,7 +1962,8 @@
       "value": "2011-06-22T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q57638$E261C310-0918-4A6E-A13D-F228B87C3A13"
+    "statement": "Q57638$E261C310-0918-4A6E-A13D-F228B87C3A13",
+    "cabinet": "Q74172"
   },
   {
     "item": {
@@ -1713,7 +2010,8 @@
       "value": "2015-05-29T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q11852228$3ed38114-4861-9b15-bb58-8f95eeb1b019"
+    "statement": "Q11852228$3ed38114-4861-9b15-bb58-8f95eeb1b019",
+    "cabinet": "Q1574803"
   },
   {
     "item": {
@@ -1748,8 +2046,16 @@
       "value": "Q503143",
       "label": "Alexander Stubb"
     },
+    "replacedBy": {
+      "value": "Q16984784",
+      "label": "Mika Lintilä"
+    },
     "start": {
       "value": "2016-06-22T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2019-06-06T00:00:00Z",
       "precision": "11"
     },
     "statement": "Q6029546$c67c470e-4d18-b92f-fa84-760d74a307e8",
