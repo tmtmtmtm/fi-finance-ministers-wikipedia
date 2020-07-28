@@ -38,15 +38,6 @@ GIT
       scraped
       wikidata-fetcher
 
-GIT
-  remote: https://github.com/openaustralia/scraperwiki-ruby.git
-  revision: fc50176812505e463077d5c673d504a6a234aa78
-  branch: morph_defaults
-  specs:
-    scraperwiki (3.0.1)
-      httpclient
-      sqlite_magic
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -110,6 +101,9 @@ GEM
     rubocop-ast (0.1.0)
       parser (>= 2.7.0.1)
     ruby-progressbar (1.10.1)
+    scraperwiki (3.0.2)
+      httpclient
+      sqlite_magic
     sqlite3 (1.4.2)
     sqlite_magic (0.0.6)
       sqlite3
@@ -134,7 +128,6 @@ DEPENDENCIES
   open-uri-cached
   rubocop
   scraped!
-  scraperwiki!
   table_unspanner!
   wikidata-fetcher!
   wikidata_ids_decorator!
