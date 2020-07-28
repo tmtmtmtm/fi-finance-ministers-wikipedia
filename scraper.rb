@@ -1,17 +1,17 @@
 #!/bin/env ruby
 # frozen_string_literal: true
 
-require 'csv'
 require 'pry'
 require 'scraped'
 require 'wikidata_ids_decorator'
 
 require_relative 'lib/date_dotted'
 require_relative 'lib/date_partial'
+require_relative 'lib/remove_notes'
+require_relative 'lib/scraped_wikipedia_officeholders'
 require_relative 'lib/unspan_all_tables'
 require_relative 'lib/wikipedia_officeholder_page'
 require_relative 'lib/wikipedia_table_row'
-require_relative 'lib/remove_notes'
 
 # The Wikipedia page with a list of officeholders
 class ListPage < WikipediaOfficeholderPage
@@ -69,8 +69,4 @@ class HolderItem < WikipediaTableRow
 end
 
 url = ARGV.first || abort("Usage: #{$0} <url to scrape>")
-data = Scraped::Scraper.new(url => ListPage).scraper.officeholders
-
-header = data[1].keys.to_csv
-rows = data.map { |row| row.values.to_csv }
-puts header + rows.join
+puts Scraped::Wikipedia::OfficeHolders.new(url => ListPage).to_csv
