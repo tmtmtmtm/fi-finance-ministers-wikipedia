@@ -19,7 +19,7 @@ class ListPage < Scraped::HTML
   decorator UnspanAllTables
 
   field :officeholders do
-    list.xpath('.//tr[td]').map { |td| fragment(td => HolderItem) }.reject(&:empty?).map(&:to_h).uniq(&:to_s)
+    office_holders_with_replacements
   end
 
   private
@@ -28,6 +28,20 @@ class ListPage < Scraped::HTML
     noko.xpath('.//table[.//th[contains(
       translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
     "hallitus")]]').first
+  end
+
+  def raw_office_holders
+    @raw_office_holders ||= begin
+      list.xpath('.//tr[td]').map { |td| fragment(td => HolderItem) }.reject(&:empty?).map(&:to_h).uniq(&:to_s)
+    end
+  end
+
+  def office_holders_with_replacements
+    raw_office_holders.each_cons(2) do |prev, cur|
+      cur[:replaces] = prev[:id]
+      prev[:replaced_by] = cur[:id]
+    end
+    raw_office_holders
   end
 end
 
@@ -77,11 +91,6 @@ end
 
 url = ARGV.first || abort("Usage: #{$0} <url to scrape>")
 data = Scraped::Scraper.new(url => ListPage).scraper.officeholders
-
-data.each_cons(2) do |prev, cur|
-  cur[:replaces] = prev[:id]
-  prev[:replaced_by] = cur[:id]
-end
 
 header = data[1].keys.to_csv
 rows = data.map { |row| row.values.to_csv }
