@@ -1,0 +1,88 @@
+id,name,start_date,end_date,replaces,replaced_by,cabinet,cabinetLabel
+,Juhani Arajärvi,1917-11-27,1918-05-27,,,,Svinhufvudin I hallitus
+,Juhani Arajärvi,1918-05-27,1918-11-27,,,,Paasikiven I hallitus
+,Kaarlo Castrén,1918-11-27,1919-04-17,,,,Ingmanin I hallitus
+,August Ramsay,1919-04-17,1919-08-15,,,,K. Castrénin hallitus
+,Johannes Lundson,1919-08-15,1920-03-02,,,,Vennolan I hallitus
+,Jonathan Wartiovaara,1920-03-15,1921-04-09,,,,Erichin hallitus
+,Risto Ryti,1921-04-09,1922-06-02,,,,Vennolan II hallitus
+,Ernst Gråsten,1922-06-02,1922-11-14,,,,Cajanderin I hallitus
+,Risto Ryti,1922-11-14,1924-01-18,,,,Kallion I hallitus
+,Hugo Relander,1924-01-18,1924-05-31,,,,Cajanderin II hallitus
+,Yrjö Pulkkinen,1924-05-31,1925-03-31,,,,Ingmanin II hallitus
+,Hugo Relander,1925-03-31,1925-12-31,,,,Tulenheimon hallitus
+,Kyösti Järvinen,1925-12-31,1926-12-13,,,,Kallion II hallitus
+,Hannes Ryömä,1926-12-13,1927-12-17,,,,Tannerin hallitus
+,Juho Niukkanen,1927-12-17,1928-12-22,,,,Sunilan I hallitus
+,Hugo Relander,1928-12-22,1929-08-16,,,,Mantereen hallitus
+,Tyko Reinikka,1929-08-16,1930-07-04,,,,Kallion III hallitus
+,Juho Vennola,1930-07-04,1931-03-21,,,,Svinhufvudin II hallitus
+,Kyösti Järvinen,1931-03-21,1932-12-14,,,,Sunilan II hallitus
+,Hugo Relander,1932-12-14,1936-10-07,,,,Kivimäen hallitus
+,Juho Niukkanen,1936-10-07,1937-03-12,,,,Kallion IV hallitus
+,Väinö Tanner,1937-03-12,1939-12-01,,,,Cajanderin III hallitus
+,Mauno Pekkala,1939-12-01,1940-03-27,,,,Rydin I hallitus
+,Mauno Pekkala,1940-03-27,1941-01-04,,,,Rydin II hallitus
+,Mauno Pekkala,1941-01-04,1942-05-22,,,,Rangellin hallitus
+,Väinö Tanner,1942-05-22,1944-08-08,,,,Rangellin hallitus
+,Väinö Tanner,1942-05-22,1944-08-08,,,,Linkomiehen hallitus
+,Onni Hiltunen,1944-08-08,1944-11-17,,,,Hackzellin hallitus
+,Onni Hiltunen,1944-08-08,1944-11-17,,,,U. Castrénin hallitus
+,Johan Helo,1944-11-17,1945-04-17,,,,Paasikiven II hallitus
+,Sakari Tuomioja,1945-04-17,1945-07-17,,,,Paasikiven III hallitus
+,Ralf Törngren,1945-07-17,1946-03-26,,,,Paasikiven III hallitus
+,Ralf Törngren,1946-03-26,1948-07-29,,,,Pekkalan hallitus
+,Onni Hiltunen,1948-07-29,1950-03-17,,,,Fagerholmin I hallitus
+,V. J. Sukselainen,1950-03-17,1951-01-17,,,,Kekkosen I hallitus
+,Onni Hiltunen,1951-01-17,1951-09-20,,,,Kekkosen II hallitus
+,Viljo Rantala,1951-09-20,1953-07-09,,,,Kekkosen III hallitus
+,Juho Niukkanen,1953-07-09,1953-11-17,,,,Kekkosen IV hallitus
+,Tuure Junnila,1953-11-17,1954-05-05,,,,Tuomiojan hallitus
+,V. J. Sukselainen,1954-05-05,1954-10-20,,,,Törngrenin hallitus
+,Penna Tervo,1954-10-20,1956-02-26,,,,Kekkosen V hallitus
+,Aarre Simonen,1956-03-03,1957-05-27,,,,Fagerholmin II hallitus
+,Nils Meinander,1957-05-27,1957-07-02,,,,Sukselaisen I hallitus
+,Martti Miettunen,1957-07-02,1957-11-29,,,,Sukselaisen I hallitus
+,Lauri Hietanen,1957-11-29,1958-04-26,,,,Von Fieandtin hallitus
+,Ilmo Nurmela,1958-04-26,1958-08-29,,,,Kuuskosken hallitus
+,Päiviö Hetemäki,1958-08-29,1959-01-13,,,,Fagerholmin III hallitus
+,Wiljam Sarjala,1959-01-13,1961-07-14,,,,Sukselaisen II hallitus
+,Wiljam Sarjala,1961-07-14,1962-04-13,,,,Miettusen I hallitus
+,Osmo P. Karttunen,1962-04-13,1963-12-13,,,,Karjalaisen I hallitus
+,Mauno Jussila,1963-12-13,1963-12-18,,,,Karjalaisen I hallitus
+,Esko Rekola,1963-12-18,1964-09-12,,,,Lehdon hallitus
+,Esa Kaitila,1964-09-12,1966-05-27,,,,Virolaisen hallitus
+,Mauno Koivisto,1966-05-27,1967-12-31,,,,Paasion I hallitus
+,Eino Raunio,1968-01-01,1970-05-14,,,,Koiviston I hallitus
+,Päiviö Hetemäki,1970-05-14,1970-07-15,,,,Auran I hallitus
+,Carl Olof Tallgren,1970-07-15,1971-10-29,,,,Karjalaisen II hallitus
+,Päiviö Hetemäki,1971-10-29,1972-02-23,,,,Auran II hallitus
+,Mauno Koivisto,1972-02-23,1972-09-04,,,,Paasion II hallitus
+,Johannes Virolainen,1972-09-04,1975-06-13,,,,Sorsan I hallitus
+,Heikki Tuominen (ministeri),1975-06-13,1975-11-30,,,,Liinamaan hallitus
+,Paul Paavela,1975-11-30,1976-09-29,,,,Miettusen II hallitus
+,Esko Rekola,1976-09-29,1977-05-15,,,,Miettusen III hallitus
+,Paul Paavela,1977-05-15,1979-05-26,,,,Sorsan II hallitus
+,Ahti Pekkala,1979-05-26,1986-01-31,,,,Koiviston II hallitus
+,Ahti Pekkala,1979-05-26,1986-01-31,,,,Sorsan III hallitus
+,Ahti Pekkala,1979-05-26,1986-01-31,,,,Sorsan IV hallitus
+,Esko Ollila,1986-02-01,1987-04-30,,,,Sorsan IV hallitus
+,Erkki Liikanen,1987-04-30,1990-02-28,,,,Holkerin hallitus
+,Matti Louekoski,1990-03-01,1991-04-26,,,,Holkerin hallitus
+,Iiro Viinanen,1991-04-26,1995-04-13,,,,Ahon hallitus
+,Iiro Viinanen,1995-04-13,1996-02-02,,,,Lipposen I hallitus
+,Sauli Niinistö,1996-02-02,1999-04-15,,,,Lipposen I hallitus
+,Sauli Niinistö,1999-04-15,2003-04-17,,,,Lipposen II hallitus
+,Antti Kalliomäki,2003-04-17,2003-06-24,,,,Jäätteenmäen hallitus
+,Antti Kalliomäki,2003-06-24,2005-09-23,,,,Vanhasen I hallitus
+,Eero Heinäluoma,2005-09-23,2007-04-19,,,,Vanhasen I hallitus
+,Jyrki Katainen,2007-04-19,2010-06-22,,,,Vanhasen II hallitus
+,Jyrki Katainen,2010-06-22,2011-06-22,,,,Kiviniemen hallitus
+,Jutta Urpilainen,2011-06-22,2014-06-06,,,,Kataisen hallitus
+,Antti Rinne,2014-06-06,2014-06-24,,,,Kataisen hallitus
+,Antti Rinne,2014-06-24,2015-05-29,,,,Stubbin hallitus
+,Alexander Stubb,2015-05-29,2016-06-22,,,,Sipilän hallitus
+,Petteri Orpo,2016-06-22,2019-06-06,,,,Sipilän hallitus
+,Mika Lintilä,2019-06-06,2019-12-10,,,,Rinteen hallitus
+,Katri Kulmuni,2019-12-10,2020-06-09,,,,Marinin hallitus
+,Matti Vanhanen,2020-06-09,,,,,Marinin hallitus
