@@ -9,39 +9,18 @@ require 'wikidata_ids_decorator'
 require_relative 'lib/date_dotted'
 require_relative 'lib/date_partial'
 require_relative 'lib/unspan_all_tables'
+require_relative 'lib/wikipedia_officeholder_page'
 require_relative 'lib/wikipedia_table_row'
 require_relative 'lib/remove_notes'
 
 # The Wikipedia page with a list of officeholders
-class ListPage < Scraped::HTML
+class ListPage < WikipediaOfficeholderPage
   decorator RemoveNotes
   decorator WikidataIdsDecorator::Links
   decorator UnspanAllTables
 
-  field :officeholders do
-    office_holders_with_replacements
-  end
-
-  private
-
-  def list
-    noko.xpath('.//table[.//th[contains(
-      translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
-    "hallitus")]]').first
-  end
-
-  def raw_office_holders
-    @raw_office_holders ||= begin
-      list.xpath('.//tr[td]').map { |td| fragment(td => HolderItem) }.reject(&:empty?).map(&:to_h).uniq(&:to_s)
-    end
-  end
-
-  def office_holders_with_replacements
-    raw_office_holders.each_cons(2) do |prev, cur|
-      cur[:replaces] = prev[:id]
-      prev[:replaced_by] = cur[:id]
-    end
-    raw_office_holders
+  def wanted_tables
+    tables_with_header('hallitus').first
   end
 end
 
