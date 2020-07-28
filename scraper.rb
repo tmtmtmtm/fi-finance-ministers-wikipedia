@@ -6,25 +6,11 @@ require 'pry'
 require 'scraped'
 require 'wikidata_ids_decorator'
 
-require_relative 'lib/partial_date'
+require_relative 'lib/date_dotted'
+require_relative 'lib/date_partial'
 require_relative 'lib/unspan_all_tables'
 require_relative 'lib/wikipedia_table_row'
 require_relative 'lib/remove_notes'
-
-class DateString
-  def initialize(str)
-    @str = str
-  end
-
-  def to_ymd
-    str.split('.').reverse.map { |num| num.rjust(2, "0") }.join('-')
-  end
-
-  private
-
-  attr_reader :str
-end
-
 
 # The Wikipedia page with a list of officeholders
 class ListPage < Scraped::HTML
@@ -85,7 +71,7 @@ class HolderItem < WikipediaTableRow
   private
 
   def dates
-    tds[3].text.tidy.split(/\s*–\s*/).map { |str| DateString.new(str).to_ymd }
+    tds[3].text.tidy.split(/\s*–\s*/).map { |str| Date::Dotted.new(str).to_ymd }
   end
 end
 
